@@ -3,3 +3,4 @@
 
 ![cppcheck-action](https://github.com/stepin104458/104458/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/stepin104458/104458/workflows/CI/badge.svg)
+![cppcheck-action](https://github.com/stepin104458/104458/workflows/cppcheck-action/badge.svg)
